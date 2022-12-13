@@ -1,0 +1,8 @@
+.total-cupom {
+    padding-top: 16px;
+    display: flex;
+    flex-direction: row;   
+    justify-content: space-between; 
+    border-top: 1px dashed #927551;
+
+}
